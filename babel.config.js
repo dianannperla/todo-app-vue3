@@ -1,3 +1,4 @@
+// Cấu hình Babel cho dự án Vue
 module.exports = {
   // Presets cho cấu hình Babel trong Vue CLI
   presets: [
