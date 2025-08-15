@@ -1,0 +1,20 @@
+{
+  "name": "todo-app-vue3",
+  "version": "1.0.0",
+  "description": "Một ứng dụng quản lý công việc đơn giản được xây dựng bằng Vue 3.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "@vue/cli-plugin-babel": "^4.5.0"
+  },
+  "license": "MIT"
+}
