@@ -13,10 +13,10 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
-    "@vue/cli-service": "^4.5.0",
-    "@vue/cli-plugin-babel": "^4.5.0",
-    "eslint": "^7.0.0",  // Thêm ESLint để duy trì mã chất lượng
-    "@vue/test-utils": "^2.0.0"  // Thêm Vue test utilities cho việc kiểm thử
+    "@vue/cli-service": "^4.5.0",  // Servicing for Vue CLI
+    "@vue/cli-plugin-babel": "^4.5.0",  // Babel plugin for Vue CLI
+    "eslint": "^7.0.0",  // ESLint to maintain quality code
+    "@vue/test-utils": "^2.0.0"  // Vue test utilities for testing
   },
   "license": "MIT",
   "author": "Your Name <your-email@example.com>"
