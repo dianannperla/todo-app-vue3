@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "@vue/cli-service": "^4.5.0",
-    "@vue/cli-plugin-babel": "^4.5.0"
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "eslint": "^7.0.0",  // Thêm ESLint để duy trì mã chất lượng
+    "@vue/test-utils": "^2.0.0"  // Thêm Vue test utilities cho việc kiểm thử
   },
   "license": "MIT",
   "author": "Your Name <your-email@example.com>"
