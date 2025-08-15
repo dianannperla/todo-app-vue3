@@ -1,5 +1,5 @@
 module.exports = {
-  // Presets for Babel configuration in Vue CLI
+  // Presets cho cấu hình Babel trong Vue CLI
   presets: [
     '@vue/cli-plugin-babel/preset'
   ]
